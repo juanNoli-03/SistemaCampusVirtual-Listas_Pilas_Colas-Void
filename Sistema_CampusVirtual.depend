@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1723209165 source:c:\users\juanm\onedrive\unla\sistema_campusvirtual\campus.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"campus.h"
+	"estudiante.h"
+	"materia.h"
+	"pila.h"
+	"cola.h"
+
+1723209451 c:\users\juanm\onedrive\unla\sistema_campusvirtual\campus.h
+	"lista.h"
+	"cola.h"
+	"estudiante.h"
+
+1723209598 c:\users\juanm\onedrive\unla\sistema_campusvirtual\lista.h
+
+1723209496 c:\users\juanm\onedrive\unla\sistema_campusvirtual\cola.h
+
+1723209553 c:\users\juanm\onedrive\unla\sistema_campusvirtual\estudiante.h
+	"pila.h"
+
+1723209688 c:\users\juanm\onedrive\unla\sistema_campusvirtual\pila.h
+
+1723209643 c:\users\juanm\onedrive\unla\sistema_campusvirtual\materia.h
+	"lista.h"
+
+1723209212 source:c:\users\juanm\onedrive\unla\sistema_campusvirtual\cola.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cola.h"
+
+1723209252 source:c:\users\juanm\onedrive\unla\sistema_campusvirtual\estudiante.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"estudiante.h"
+	"materia.h"
+	"pila.h"
+
+1723209299 source:c:\users\juanm\onedrive\unla\sistema_campusvirtual\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+
+1723209730 source:c:\users\juanm\onedrive\unla\sistema_campusvirtual\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"campus.h"
+	"estudiante.h"
+	"materia.h"
+	"lista.h"
+
+1723209351 source:c:\users\juanm\onedrive\unla\sistema_campusvirtual\materia.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"materia.h"
+
+1723209384 source:c:\users\juanm\onedrive\unla\sistema_campusvirtual\pila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pila.h"
+
