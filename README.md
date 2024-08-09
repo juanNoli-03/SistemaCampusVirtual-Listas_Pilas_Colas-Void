@@ -1,6 +1,6 @@
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Sistema Campus Virtual- Listas, Pilas y Colas de tipo Void</h1>
+    <summary><h1 style="display: inline-block">Sistema Campus Virtual - Listas, Pilas y Colas de tipo Void</h1>
     </summary>
   </ul>
 </div>
