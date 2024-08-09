@@ -7,6 +7,10 @@
 
 ---
 
+![image](https://github.com/user-attachments/assets/65534808-b031-44ca-b0bc-7e1623abf5e0)
+
+![image](https://github.com/user-attachments/assets/93a6e719-8c78-416c-a4bd-3b3817900df2)
+
 **Este programa simula el funcionamiento de un Campus Virtual utilizando 3 estructuras de datos clásicas como lo son las Listas, las Pilas y las Colas. Mediante el uso de este programa usted podrá:**
 
 **1. Encolar a un Estudiante a una cola de estudiantes:** 
